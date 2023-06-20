@@ -1,6 +1,6 @@
 # Projeto de Análise de Dívida Pessoal 📊
 
-Este é um projeto que eu fiz em **Power BI**, uma ferramenta de análise de dados e visualização da Microsoft, para analisar a minha dívida pessoal e planejar o seu pagamento. Ele utiliza uma base de dados que eu criei em **Excel**, um software de planilhas eletrônicas da Microsoft, com os valores das parcelas, os juros e os prazos de uma dívida minha. O dado foi anonimizado utilizando a função `ALEATÓRIO()` do Excel.
+Este é um projeto que eu fiz em **Power BI**, uma ferramenta de análise de dados e visualização da Microsoft, para analisar a minha dívida pessoal e planejar o seu pagamento. Ele utiliza uma base de dados que eu criei em **Excel**, um software de planilhas eletrônicas da Microsoft, com os valores das parcelas, os juros e os prazos de uma dívida minha (Vale salienar que os dados foi anonimizados utilizando a função `ALEATÓRIO()` do Excel, para preservar meus dados, uma prática muito comum quando falamos de LGPD).
 
 O objetivo do projeto é mostrar as principais informações sobre a minha situação financeira em um relatório interativo que permite filtrar os dados por ano e mês. Ele também possui alguns gráficos dinâmicos que mostram as tendências e as variações dos dados. Algumas das informações que o relatório apresenta são:
 
